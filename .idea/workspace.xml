@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e318910-dfb3-418f-afc6-40b8b6da9d19" name="Changes" comment="java102.2">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9e318910-dfb3-418f-afc6-40b8b6da9d19" name="Changes" comment="java102.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Driver.executor": "Run",
     "Application.Driver2.executor": "Run",
     "Application.Driver3.executor": "Run",
@@ -110,6 +109,7 @@
       <workItem from="1710791165358" duration="572000" />
       <workItem from="1710791765442" duration="8434000" />
       <workItem from="1710942054767" duration="2408000" />
+      <workItem from="1710971384415" duration="488000" />
     </task>
     <task id="LOCAL-00001" summary="java102.2">
       <option name="closed" value="true" />
