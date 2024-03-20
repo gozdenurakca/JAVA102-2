@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/gna/Desktop/OOP/JAVA102.2/KalitimLab/src</OriginalElement>
+  <nodes>
+    <node x="-78.5" y="163.5">Ogrenci</node>
+    <node x="-94.5" y="483.5">UniversiteOgrenci</node>
+    <node x="78.0" y="163.5">Doktor</node>
+    <node x="38.0" y="356.0">Driver</node>
+    <node x="-76.5" y="-56.5">Kisi</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="UniversiteOgrenci" target="Ogrenci" relationship="GENERALIZATION">
+      <point x="0.0" y="-56.5" />
+      <point x="0.0" y="460.0" />
+      <point x="-20.0" y="460.0" />
+      <point x="0.0" y="56.5" />
+    </edge>
+    <edge source="Doktor" target="Kisi" relationship="GENERALIZATION">
+      <point x="0.0" y="-56.5" />
+      <point x="140.0" y="140.0" />
+      <point x="-20.0" y="140.0" />
+      <point x="0.0" y="56.5" />
+    </edge>
+    <edge source="Ogrenci" target="Kisi" relationship="GENERALIZATION">
+      <point x="0.0" y="-56.5" />
+      <point x="0.0" y="56.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="0.6884272997032641" showDependencies="false" x="63.5" y="280.0" />
+  <SelectedNodes>
+    <node>Doktor</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

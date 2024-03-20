@@ -4,167 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e318910-dfb3-418f-afc6-40b8b6da9d19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnahtarKelimelerLab/AnahtarKelimelerLab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnahtarKelimelerLab/src/Araba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnahtarKelimelerLab/src/Arac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnahtarKelimelerLab/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnahtarKelimelerLab/src/Kamyon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnahtarKelimelerLab/src/YolcuTasimaAraci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnahtarKelimelerLab/src/YukTasimaAraci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnonimClasses/AnonimClasses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnonimClasses/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnonimClasses/src/Elma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnonimClasses/src/ElmaKarsilastirici.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cok Bicimlilik4/Cok Bicimlilik4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cok Bicimlilik4/src/Davul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cok Bicimlilik4/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cok Bicimlilik4/src/Enstruman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cok Bicimlilik4/src/Gitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cok Bicimlilik4/src/Keman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cok Bicimlilik4/src/Klarnet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik/CokBicimlilik.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik/src/Hayvan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik/src/Kedi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik/src/Kopek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik/src/Kus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik2/CokBicimlilik2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik2/src/Daire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik2/src/Dikdortgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik2/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik2/src/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik2/src/Sekil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik3/CokBicimlilik3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik3/src/Calisan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik3/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CokBicimlilik3/src/Memur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ErisimKontrolu/ErisimKontrolu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ErisimKontrolu/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ErisimKontrolu/src/Driver2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ErisimKontrolu/src/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ErisimKontrolu/src/com/example/Araba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ErisimKontrolu/src/com/example/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalOrnek/FinalOrnek.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalOrnek/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalOrnek/src/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalOrnek/src/UniOgrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inferfaces/Inferfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inferfaces/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inferfaces/src/Kaptan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inferfaces/src/Pilot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inferfaces/src/Sofor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inferfaces/src/Surebilir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InnerClass/InnerClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InnerClass/src/Araba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InnerClass/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceLab/InterfaceLab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceLab/src/AgirlikFiltresi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceLab/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceLab/src/Elma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceLab/src/ElmaFiltresi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceLab/src/RenkFiltresi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces2/Interfaces2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces2/src/Balik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces2/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces2/src/Karga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces2/src/Penguen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces2/src/Ucabilir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces2/src/Yuruyebilir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces2/src/Yuzebilir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces2/src/Zebra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA102.2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim/Kalitim.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim/src/Daire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim/src/Dikdortgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim/src/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim/src/Sekil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim2/Kalitim2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim2/src/Araba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim2/src/Arac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim2/src/Bisiklet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim2/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim2/src/NakliyeAraci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim2/src/Tir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim2/src/YolcuTasimaAraci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KalitimLab/KalitimLab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KalitimLab/src/Doktor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KalitimLab/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KalitimLab/src/Kisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KalitimLab/src/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KalitimLab/src/Ogretmen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KalitimLab/src/UniversiteOgrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim_Yapici_Metotlar/Kalitim_Yapici_Metotlar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim_Yapici_Metotlar/src/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim_Yapici_Metotlar/src/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim_Yapici_Metotlar/src/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalitim_Yapici_Metotlar/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Overloading/Overloading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Overloading/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Overloading/src/HesapMakinesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Overloading/src/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OverloadingLab/OverloadingLab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OverloadingLab/src/Calisan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OverloadingLab/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Overriding/Overriding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Overriding/src/Araba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Overriding/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OverridingLab/OverridingLab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OverridingLab/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OverridingLab/src/Kisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oylesine/Oylesine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oylesine/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oylesine/src/Elma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oylesine/src/ElmaKarsilastirici.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POJO_Siniflari/POJO_Siniflari.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POJO_Siniflari/src/Calisan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POJO_Siniflari/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POJO_Siniflari/src/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POJO_Siniflari/src/KareDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolyLabs/PolyLabs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolyLabs/src/DbConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolyLabs/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolyLabs/src/MsSQLConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolyLabs/src/MySQLConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolyLabs/src/Oracle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolyLabs/src/PostgreConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SiniflarLab/SiniflarLab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SiniflarLab/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SiniflarLab/src/Driver2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SiniflarLab/src/Driver3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SiniflarLab/src/Kalem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SiniflarLab/src/Kopek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SiniflarLab/src/KopekBoyut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SiniflarLab/src/KopekRenk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SiniflarLab/src/Telefon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SiniflarLab/src/TelefonTipi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SiniflarVeNesneler/SiniflarVeNesneler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SiniflarVeNesneler/src/Daire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SiniflarVeNesneler/src/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoyutSiniflar/SoyutSiniflar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoyutSiniflar/src/Basketbolcu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoyutSiniflar/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoyutSiniflar/src/Futbolcu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoyutSiniflar/src/Oyuncu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperOrnek/SuperOrnek.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperOrnek/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperOrnek/src/Kisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperOrnek/src/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThisOrnek/ThisOrnek.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThisOrnek/src/Calisan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThisOrnek/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uye Degiskenler/Uye Degiskenler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uye Degiskenler/src/Bisiklet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uye Degiskenler/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uye Degiskenler/src/Driver2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uye Degiskenler/src/Oyuncu.java" afterDir="false" />
+    <list default="true" id="9e318910-dfb3-418f-afc6-40b8b6da9d19" name="Changes" comment="java102.2">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,12 +109,25 @@
       <workItem from="1710766186944" duration="1922000" />
       <workItem from="1710791165358" duration="572000" />
       <workItem from="1710791765442" duration="8434000" />
-      <workItem from="1710942054767" duration="2257000" />
+      <workItem from="1710942054767" duration="2408000" />
     </task>
+    <task id="LOCAL-00001" summary="java102.2">
+      <option name="closed" value="true" />
+      <created>1710971289141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710971289141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java102.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="java102.2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

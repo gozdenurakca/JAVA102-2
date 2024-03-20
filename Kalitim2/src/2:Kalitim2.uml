@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/gna/Desktop/OOP/JAVA102.2/Kalitim2</OriginalElement>
+  <nodes>
+    <node x="-73.0" y="566.5">Tir</node>
+    <node x="74.0" y="226.5">YolcuTasimaAraci</node>
+    <node x="25.0" y="466.5">Bisiklet</node>
+    <node x="144.0" y="566.5">Araba</node>
+    <node x="-68.5" y="326.5">NakliyeAraci</node>
+    <node x="26.0" y="-13.5">Driver</node>
+    <node x="-56.0" y="86.5">Arac</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="NakliyeAraci" target="Arac" relationship="GENERALIZATION">
+      <point x="0.0" y="-31.5" />
+      <point x="0.0" y="31.5" />
+    </edge>
+    <edge source="YolcuTasimaAraci" target="Arac" relationship="GENERALIZATION">
+      <point x="0.0" y="-31.5" />
+      <point x="168.0" y="198.0" />
+      <point x="8.0" y="198.0" />
+      <point x="0.0" y="31.5" />
+    </edge>
+    <edge source="Tir" target="NakliyeAraci" relationship="GENERALIZATION">
+      <point x="0.0" y="-31.5" />
+      <point x="0.0" y="31.5" />
+    </edge>
+    <edge source="Bisiklet" target="YolcuTasimaAraci" relationship="GENERALIZATION">
+      <point x="0.0" y="-31.5" />
+      <point x="108.0" y="438.0" />
+      <point x="168.0" y="438.0" />
+      <point x="0.0" y="31.5" />
+    </edge>
+    <edge source="Araba" target="YolcuTasimaAraci" relationship="GENERALIZATION">
+      <point x="0.0" y="-31.5" />
+      <point x="208.0" y="438.0" />
+      <point x="168.0" y="438.0" />
+      <point x="0.0" y="31.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="1.125" showDependencies="false" x="109.50000000000006" y="318.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

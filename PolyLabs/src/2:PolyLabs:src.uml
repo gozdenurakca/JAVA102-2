@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/gna/Desktop/OOP/JAVA102.2/PolyLabs/src</OriginalElement>
+  <nodes>
+    <node x="284.0" y="202.0">Driver</node>
+    <node x="39.0" y="-82.0">DbConnection</node>
+    <node x="39.0" y="178.0">MySQLConnection</node>
+    <node x="-107.0" y="158.0">MsSQLConnection</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="MsSQLConnection" target="DbConnection" relationship="GENERALIZATION">
+      <point x="0.0" y="-68.0" />
+      <point x="0.0" y="68.0" />
+    </edge>
+    <edge source="MySQLConnection" target="DbConnection" relationship="GENERALIZATION">
+      <point x="0.0" y="-68.0" />
+      <point x="0.0" y="68.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="0.917004048582996" showDependencies="false" x="140.6335540838852" y="-45.21633554083891" />
+  <SelectedNodes>
+    <node>MsSQLConnection</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
